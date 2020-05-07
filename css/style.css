@@ -1,4 +1,6 @@
-
+html body{
+    margin: 0;
+}
 
 .contenedor{
     background: red;
@@ -16,3 +18,26 @@
     background: blueviolet;
     width: 30%;
 }
+ul{
+    display: flex;
+    
+}
+li{
+    
+    list-style: none;
+
+}
+li a{
+    margin-right: 20px;
+    color: white;
+}
+.usuario-item{
+    padding-left: 70px;
+}
+.carrito-item{
+    
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
