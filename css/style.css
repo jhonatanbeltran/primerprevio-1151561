@@ -1,0 +1,18 @@
+
+
+.contenedor{
+    background: red;
+    display: flex;
+}
+.header-nav{
+    background: blue;
+    width: 40%;
+}
+.header-carrito{
+    background: green;
+    width: 30%;
+}
+.header-usuario{
+    background: blueviolet;
+    width: 30%;
+}
