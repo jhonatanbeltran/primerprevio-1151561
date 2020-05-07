@@ -5,7 +5,8 @@ html body{
 .contenedor{
   
     display: flex;
-    height: 50px;
+    height: 75px;
+    padding-bottom: 10px;
 }
 .header-nav{
     background: #2180B6;
@@ -42,6 +43,7 @@ li a{
 
 }
 .imagencarrusel{
+    padding-top: 10px;
     height: 450px;
     width: 1370px;
 }
