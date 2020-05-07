@@ -5,6 +5,7 @@ html body{
 .contenedor{
     background: red;
     display: flex;
+    height: 50px;
 }
 .header-nav{
     background: blue;
@@ -39,5 +40,9 @@ li a{
     margin-right: auto;
     margin-left: auto;
 
+}
+.imagencarrusel{
+    height: 450px;
+    width: 1370px;
 }
 
